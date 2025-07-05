@@ -1,1 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
 
+# Virtual environments
+.env/
+venv/
+.venv/
+
+# Output files
+*.log
+*.jsonl
+*.sig
+dist/
+build/
+*.egg-info/
