@@ -20,7 +20,7 @@ If applicable, add logs or screenshots.
 
 **Environment:**
  - OS: [e.g. Ubuntu 22.04]
- - Ryoshi-x version: [e.g. v1.0]
+ - Hades version: [e.g. v1.0]
 
 **Additional context**
 Add any other context about the problem here.
