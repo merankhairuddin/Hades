@@ -1,8 +1,7 @@
-# Hades - Hidden Artifact Detection &amp; Extraction Suite
+# HADES - Hidden Artifact Detection &amp; Extraction Suite
 
 This is an enhanced fork of the original [Ryoshi](https://github.com/fkie-cad/ryoshi) rootkit detection utility. It extends the original capabilities with new features including hybrid memory analysis, incremental scanning, output formatting, digital signing, and audit logging.
 
----
 
 ## Key Features
 
@@ -13,7 +12,6 @@ This is an enhanced fork of the original [Ryoshi](https://github.com/fkie-cad/ry
 - Digital signing of extracted evidence
 - Audit logging with session replay
 
----
 
 ## Installation
 
@@ -23,7 +21,6 @@ This is an enhanced fork of the original [Ryoshi](https://github.com/fkie-cad/ry
 - Volatility3 (`pip install volatility3`)
 - Dissect library (`pip install dissect`) for Python scanner
 
----
 
 ## Usage Examples
 
