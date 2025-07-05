@@ -63,7 +63,6 @@ sudo python3 dissect/dscan.py /dev/sda1 /mnt /evidence --audit-log ryoshi_audit.
 sudo python3 core/logger.py --replay ryoshi_audit.jsonl
 ```
 
----
 
 ## Project Structure
 
@@ -90,7 +89,6 @@ hades-main/
     └── analyze.py
 ```
 
----
 
 ## Credits
 This project builds upon the excellent work by FKIE-CAD on [Ryoshi](https://github.com/fkie-cad/ryoshi).
